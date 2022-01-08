@@ -1,0 +1,16 @@
+.box{
+  
+    width:100%;
+    padding:3px;
+    margin:1px;
+    box-shadow: 8px 8px 8px 8px rgb(202, 184, 228);
+    display:flex;
+    flex-flow:  row wrap;
+    cursor: pointer;
+
+}
+
+.image:hover {
+    border: 50px solid rgb(202, 184, 228);
+}
+
